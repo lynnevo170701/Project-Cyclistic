@@ -26,3 +26,5 @@ Here is the link:
 - [Full R code](https://github.com/lynnevo170701/Project-Cyclistic/blob/5d1384f547609a5ac86e01227cbceeb54ea09496/script.R)
 - [Graphic](https://github.com/lynnevo170701/Project-Cyclistic/tree/main/graphic)
 - [Intereactive Tableau](https://public.tableau.com/app/profile/linh7637)
+- Other online platforms: 
+  - [Medium](https://medium.com/@linhvo170701/google-data-analytics-professional-certificate-case-study-93f9d3178b46)
