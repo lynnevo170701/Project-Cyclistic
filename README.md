@@ -28,3 +28,4 @@ Here is the link:
 - [Intereactive Tableau](https://public.tableau.com/app/profile/linh7637)
 - Other online platforms: 
   - [Medium](https://medium.com/@linhvo170701/google-data-analytics-professional-certificate-case-study-93f9d3178b46)
+  - [Wordpress](https://datascience334.wordpress.com/2023/02/27/google-data-analytics-professional-certificate-case-study/)
